@@ -9,3 +9,5 @@ Un commit mas desde Github
 Una actualizacion mas
 
 cambios desde rama local llamada developer01
+
+cambios desde dev editor ('enter' , '.')
