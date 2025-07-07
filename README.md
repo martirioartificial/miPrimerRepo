@@ -10,7 +10,7 @@ Una actualizacion mas
 
 cambios desde rama local llamada developer01
 
-press <kdb>.</kdb> to code editor
+press <kbd>.</kbd> to code editor
 
 ```mermaid
 gitGraph
